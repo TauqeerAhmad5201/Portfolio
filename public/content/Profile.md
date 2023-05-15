@@ -2,9 +2,9 @@
 - Portable Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Hi, my name is Tauqeer. 
+- I'm a Developer Relation Engineer.
+- Loves to nurture and foster around communities.
 
 ## About
 Write your "About" section here.
