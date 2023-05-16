@@ -11,7 +11,7 @@
 ## Anand Rathi Wealth Management
 - *Cyber Security Intern* | Dec'20 - Jan'21
 - ![logo512](../assets/logo512.png)
-- Tags: Category 2
+- Tags: Experience 2
 - Badges:
   - Badge [blue]
 - List Items:
@@ -21,7 +21,7 @@
 ## Tech Mahindra
 - *System Admin* | May'20 - July'20
 - ![logo512](../assets/logo512.png)
-- Tags: Category 3
+- Tags: Experience 3
 - Badges:
   - Badge [blue]
 - List Items:
