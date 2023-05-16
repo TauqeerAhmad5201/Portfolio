@@ -15,4 +15,4 @@ Write your "Contact" section here.
 - Email: hellotauqeer@gmail.com
 
 ## Logo
-- EB
+- TA
