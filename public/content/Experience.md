@@ -5,8 +5,8 @@
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Interned as a full stack web developer with a team from worlwide. 
+  - Solved bugs and issues related to internal projects of the organization.
 
 ## Anand Rathi Wealth Management
 - *Cyber Security Intern* | Dec'20 - Jan'21
@@ -15,8 +15,8 @@
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Managed the network configuration of the workplace along with SSH Setup. 
+  - Continious monitor and updates on network and guiding the best suitability. 
 
 ## Tech Mahindra
 - *System Admin* | May'20 - July'20
@@ -25,5 +25,5 @@
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Worked as system admin intern. Managed and setup the Linux System for the workplace.
+  - Hands on Chef and Ansible to deploy the system and packages. 
