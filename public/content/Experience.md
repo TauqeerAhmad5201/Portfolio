@@ -1,5 +1,5 @@
 ## Side Hustle
-- *Full Stack Developer* | July'22 - Aug'22
+- *Full Stack Web Developer* | July'22 - Aug'22
 - ![logo512](../assets/logo512.png)
 - Tags: Experience 1
 - Badges:
