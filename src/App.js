@@ -7,6 +7,7 @@ import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Volunteer from './components/Volunteer'
 
 function App() {
   // Available Colours:
@@ -22,6 +23,7 @@ function App() {
       <About color={color} />
       <Experience color={color} />
       <Projects color={color} />
+      <Volunteer color={color}/>
       <Contact color={color} />
       <Footer />
     </>
