@@ -1,7 +1,7 @@
 ## Microsoft Learn Student Ambassador 
 - *Gold Microsoft Learn Student Ambassador* | Jan'21 - Present
 - ![logo512](../assets/logo512.png)
-- Tags: Experience 1
+- Tags: Volunteer 1
 - Badges:
   - Volunteering [blue]
 - List Items:
@@ -12,19 +12,32 @@
 ## Google Developers Student Club
 - *Technical Team Lead* |Aug'22 - Mar'23
 - ![logo512](../assets/logo512.png)
-- Tags: Experience 2
+- Tags: Volunteer 2
 - Badges:
   - Volunteering [blue]
 - List Items:
-  - Managed the network configuration of the workplace along with SSH Setup. 
-  - Continious monitor and updates on network and guiding the best suitability. 
+  - Hosted couple of workshops to guide students on emerging technologies. 
+  - Guided the students to be on path of Devops and how is that important. 
+  - Represented the university on the global Google Developer stage. 
 
 ## Hack Club 
 - *Web Development Lead* | May'22 - Mar'23
 - ![logo512](../assets/logo512.png)
-- Tags: Experience 3
+- Tags: Volunteer 3
 - Badges:
   - Volunteering [blue]
 - List Items:
-  - Worked as system admin intern. Managed and setup the Linux System for the workplace.
-  - Hands on Chef and Ansible to deploy the system and packages.
+  - Served as Web development mentor at Hack Club.
+  - Guided and mentored on the technicalitiies of web development to students. 
+  - Originated the enthusiasm of web development and their tools among the learners. 
+
+## Tezos Club 
+- *Public Reachout Head* | May'22 - Mar'23
+- ![logo512](../assets/logo512.png)
+- Tags: Volunteer 4
+- Badges:
+  - Volunteering [blue]
+- List Items:
+  - Managed Web3 student communities through the connected universities, hence connecting students, collaboration for projects.
+  - Organized various workshops on Blockchain and smart contracts, creating a learning culture among students and developers in colleges.
+  - Organized meetups on Web3 tech including Shardeum, Push increasing their visibility by 20%. 

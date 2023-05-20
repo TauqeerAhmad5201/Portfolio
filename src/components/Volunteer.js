@@ -26,8 +26,8 @@ import {
   import TagsArray from "./TagsArray";
   
   export default function Volunteer({ color }) {
-    const experience = VolunteerArray();
-    const options = TagsArray("ExperienceTags");
+    const volunteer = VolunteerArray();
+    const options = TagsArray("VolunteerTags");
     const [selected, setSelected] = useState("");
   
     useEffect(() => {
@@ -71,7 +71,7 @@ import {
               </ButtonGroup>
             </Center>
             <Stack px={4} spacing={4}>
-              {experience
+              {volunteer
                 .filter((exp) => exp.tags.includes(selected))
                 .map((exp) => (
                   <Fade bottom>
