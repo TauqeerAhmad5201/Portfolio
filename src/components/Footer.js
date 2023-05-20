@@ -18,7 +18,7 @@ export default function Footer() {
         py={4}
         align="center"
       >
-        <Text>© 2023 Eldora Boo. All rights reserved</Text>
+        <Text>Buy me coffee 	&#9749; (Working hard to get the link. 	&#128517;)</Text>
       </Container>
     </Box>
   );
