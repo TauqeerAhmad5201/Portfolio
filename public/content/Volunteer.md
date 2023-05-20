@@ -1,6 +1,6 @@
 ## Microsoft Learn Student Ambassador 
 - *Gold Microsoft Learn Student Ambassador* | Jan'21 - Present
-- ![logo512](../assets/logo512.png)
+- ![logo512](../assets/MLSA512.png)
 - Tags: Volunteer 1
 - Badges:
   - Volunteering [blue]
@@ -11,7 +11,7 @@
 
 ## Google Developers Student Club
 - *Technical Team Lead* |Aug'22 - Mar'23
-- ![logo512](../assets/logo512.png)
+- ![logo512](../assets/GDSC512.png)
 - Tags: Volunteer 2
 - Badges:
   - Volunteering [blue]
@@ -22,7 +22,7 @@
 
 ## Hack Club 
 - *Web Development Lead* | May'22 - Mar'23
-- ![logo512](../assets/logo512.png)
+- ![logo512](../assets/hackclub512.png)
 - Tags: Volunteer 3
 - Badges:
   - Volunteering [blue]
@@ -32,8 +32,8 @@
   - Originated the enthusiasm of web development and their tools among the learners. 
 
 ## Tezos Club 
-- *Public Reachout Head* | May'22 - Mar'23
-- ![logo512](../assets/logo512.png)
+- *Public Reachout Head* | Sep'22 - Mar'23
+- ![logo512](../assets/Tezos512.png)
 - Tags: Volunteer 4
 - Badges:
   - Volunteering [blue]
