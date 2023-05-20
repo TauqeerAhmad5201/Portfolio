@@ -19,7 +19,7 @@ export default function Header({ color }) {
   };
   const linkedin = () => {
     window.open(
-                `${profile.linkedin}`,
+                `${profile.twitter}`,
                 "_blank",
                 "noreferrer,noopener"
               );
