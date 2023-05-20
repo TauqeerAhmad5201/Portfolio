@@ -40,4 +40,4 @@
 - List Items:
   - Managed Web3 student communities through the connected universities, hence connecting students, collaboration for projects.
   - Organized various workshops on Blockchain and smart contracts, creating a learning culture among students and developers in colleges.
-  - Organized meetups on Web3 tech including Shardeum, Push increasing their visibility by 20%. 
+  - Organized meetups on Web3 tech including Shardeum, Push increasing their visibility among develoepers. 
