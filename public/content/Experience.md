@@ -1,6 +1,6 @@
 ## Side Hustle
 - *Full Stack Web Developer* | July'22 - Aug'22
-- ![logo512](../assets/logo512.png)
+- ![logo512](../assets/SH512.png)
 - Tags: Experience 1
 - Badges:
   - Intern [blue]
@@ -10,7 +10,7 @@
 
 ## Anand Rathi Wealth Management
 - *Cyber Security Intern* | Dec'20 - Jan'21
-- ![logo512](../assets/logo512.png)
+- ![logo512](../assets/ARWM512.png)
 - Tags: Experience 2
 - Badges:
   - Intern [blue]
@@ -20,7 +20,7 @@
 
 ## Tech Mahindra
 - *System Admin* | May'20 - July'20
-- ![logo512](../assets/logo512.png)
+- ![logo512](../assets/TMF512.png)
 - Tags: Experience 3
 - Badges:
   - Intern [blue]
