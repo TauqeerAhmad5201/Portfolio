@@ -6,15 +6,12 @@ import {
   Box,
   HStack,
   Button,
-  ButtonGroup,
   Card,
   CardBody,
   Image,
   Heading,
-  SimpleGrid,
   Badge,
-  Link,
-  Center,
+  
 } from "@chakra-ui/react";
 import { Fade } from "react-reveal";
 import { useState } from "react";
@@ -94,10 +91,10 @@ export default function Projects({ color }) {
               </Fade>
             ))}
           </Stack>
-          <Text color={"gray.600"} fontSize={"xl"} px={4}>
+          {/* <Text color={"gray.600"} fontSize={"xl"} px={4}>
             Other Projects
-          </Text>
-          <Center px={4}>
+          </Text> */}
+          {/* <Center px={4}>
             <ButtonGroup variant="outline">
               <Button
                 colorScheme={selected === "All" ? `${color}` : "gray"}
@@ -114,8 +111,8 @@ export default function Projects({ color }) {
                 </Button>
               ))}
             </ButtonGroup>
-          </Center>
-          <SimpleGrid columns={[1, 2, 3]} px={4} spacing={4}>
+          </Center> */}
+          {/* <SimpleGrid columns={[1, 2, 3]} px={4} spacing={4}>
             {others
               .filter((other) => {
                 if (selected === "All") {
@@ -162,7 +159,7 @@ export default function Projects({ color }) {
                   </Card>
                 </Fade>
               ))}
-          </SimpleGrid>
+          </SimpleGrid> */}
         </Stack>
       </Container>
     </>
